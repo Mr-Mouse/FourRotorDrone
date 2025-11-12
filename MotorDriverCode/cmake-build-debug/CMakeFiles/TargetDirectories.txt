@@ -1,0 +1,3 @@
+D:/active file/FourRotorDrone/MCUCode/cmake-build-debug/CMakeFiles/FourRotorDrone.elf.dir
+D:/active file/FourRotorDrone/MCUCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/active file/FourRotorDrone/MCUCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
